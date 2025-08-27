@@ -139,3 +139,6 @@
 [submodule "XDataConvertorWidget"]
 	path = XDataConvertorWidget
 	url = https://github.com/horsicq/XDataConvertorWidget
+[submodule "XStaticUnpacker"]
+	path = XStaticUnpacker
+	url = https://github.com/horsicq/XStaticUnpacker
